@@ -1,1 +1,1 @@
-# RTA_hs
+# Analiza danych w czasie rzeczywistym
